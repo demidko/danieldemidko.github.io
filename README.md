@@ -1,2 +1,2 @@
 # danieldemidko.github.io
-Daniel's website
+Coordinate page
