@@ -1,1 +1,1 @@
-# danieldemidko.github.io
+# https://danieldemidko.github.io
