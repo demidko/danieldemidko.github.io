@@ -1,0 +1,47 @@
+.MenuWrap {
+    background-color: indigo;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    min-height: 2.75rem;
+    display: flex;
+    align-items: center;
+    padding: 01rem
+}
+
+.ContactWrap {
+    display: table;
+    background-color: lightcyan;
+    font-family: 'Oswald', sans-serif
+}
+
+.Contact {
+    margin-right: 1rem;
+    border: dotted;
+    border-width: 0.05rem;
+    border-color: #ebebeb;
+    color: indigo;
+    text-decoration: none;
+}
+
+.ListItem,
+.LastItem {
+    color: #ebebeb;
+    text-decoration: none
+}
+
+.ListItem {
+    margin-right: 1rem
+}
+
+.LastItem {
+    margin-left: auto
+}
+
+.Photo {
+	max-width: 38%;	
+}
+
+.Content {
+	font-family: 'Oswald', sans-serif;
+    text-decoration: none
+}
