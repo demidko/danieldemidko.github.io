@@ -8,21 +8,6 @@
     padding: 01rem
 }
 
-.ContactWrap {
-    display: table;
-    background-color: lightcyan;
-    font-family: 'Oswald', sans-serif
-}
-
-.Contact {
-    margin-right: 1rem;
-    border: dotted;
-    border-width: 0.05rem;
-    border-color: #ebebeb;
-    color: indigo;
-    text-decoration: none;
-}
-
 .ListItem,
 .LastItem {
     color: #ebebeb;
@@ -37,11 +22,27 @@
     margin-left: auto
 }
 
-.Photo {
-	max-width: 38%;	
+.Text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
+    width: 70%;
+    word-break: keep-all
 }
 
-.Content {
-	font-family: 'Oswald', sans-serif;
+.Link {
+    font-weight: 600;
+    padding: 0.5%;
+    background-color: aliceblue;
+    border: dotted;
+    border-color: #ebebeb;
+    color: indigo;
     text-decoration: none
+}
+
+.Red {
+    font-weight: 600;
+    color: darkred
 }
